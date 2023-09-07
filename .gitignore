@@ -1,0 +1,11 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environments
+.env
+
+# Python Tools for Visual Studio (PTVS)
+*.pyc
